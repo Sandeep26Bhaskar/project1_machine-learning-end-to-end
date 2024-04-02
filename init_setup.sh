@@ -6,5 +6,3 @@ conda activate ./env
 echo [$(echo)]: "installing required dev packages"
 pip install -r requirements.txt
 echo [$(echo)]: "END"
-
-# Doesn't work on windows
